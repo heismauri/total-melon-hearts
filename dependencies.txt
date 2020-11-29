@@ -1,0 +1,5 @@
+Dependecies needed for this script
+
+requests==2.25.0
+beautifulsoup4==4.9.3
+termcolor==1.1.0
